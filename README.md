@@ -1,2 +1,3 @@
-# natours
-Advanced CSS project
+# Elite
+
+Advanced CSS Flexbox Project
